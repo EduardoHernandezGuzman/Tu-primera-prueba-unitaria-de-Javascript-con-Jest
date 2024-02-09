@@ -1,15 +1,9 @@
-<!--hide-->
-# Unit testing with Jest
-<!--endhide-->
+# "Tu primera prueba unitaria de Javascript con Jest" de EduardoHernandezGuzman
 
-> Important: 💻 This exercise is interactive. Please follow the instructions.
+## Un poco de información
+Noveno proyecto realizado en el bootcamp de 4GEEKSACADEMY.   
 
-Most developers today are required not only to write code, but also need to write code to test their own code 😱, yes... really.
-
-Today we are going to be using the [Jest framework](https://jestjs.io/) to create our first tests.
-
-## 🌱 How to start this project
-
+## ¿Cómo puedo ejecutarlo?
 This project comes with the necessary files to start working immediately.
 
 We recommend opening this very same repository using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
